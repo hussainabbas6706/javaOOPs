@@ -1,0 +1,10 @@
+# Ignore compiled Java bytecode
+*.class
+
+# You should also ignore IDE build/output folders if you have them, 
+# like a 'bin' folder, 'out' folder, or '.idea/' folder.
+bin/
+out/
+target/
+.idea/
+.vscode/
